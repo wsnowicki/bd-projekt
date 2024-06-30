@@ -7,5 +7,5 @@ Składa się z 3 części:
 - Część analityczna.
 
 # Autorzy
-- 272780,
-- 214963.
+- 272780
+- 214963
