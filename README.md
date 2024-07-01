@@ -9,3 +9,8 @@ Składa się z 3 części:
 # Autorzy
 - 272780
 - 214963
+
+# Instalacja
+1. Sklonuj repo za pomocą polecenia `git clone`,
+2. Zainstaluj wszystkie wymagane biblioteki Pythonowe z pliku requirements.txt,
+3. Uruchom aplikację.
