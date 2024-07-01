@@ -13,4 +13,4 @@ Składa się z 3 części:
 # Instalacja
 1. Sklonuj repo za pomocą polecenia `git clone`,
 2. Zainstaluj wszystkie wymagane biblioteki Pythonowe z pliku requirements.txt,
-3. Uruchom aplikację.
+3. Dodaj plik .env z danymi do bazy danych do folderu serwer [przykład do pliku](./.env_example.txt)
