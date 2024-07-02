@@ -1,2 +1,4 @@
 # Dotenvy
 **/.env
+**/baza.db
+**/measurements.csv

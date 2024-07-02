@@ -3,6 +3,8 @@ import random
 from datetime import datetime, timedelta
 import csv
 
+DATABASE = 'baza.db'
+
 class Client:
     def __init__(self, db_path: str):
         """
